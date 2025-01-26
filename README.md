@@ -1,6 +1,6 @@
 ![github-header-image (1)](https://github.com/user-attachments/assets/dfbf072e-f6a6-4648-bf49-25335095cd78)
 
-<h1 align="left">Hi 👋! My name is Vaishnavi. I am a software engineer patinated to develop responsive and reactive web application</h1>
+<h1 align="left">Hi 👋! My name is Nikhil. I am a software engineer patinated to develop responsive and reactive web application</h1>
 
 ###
 
