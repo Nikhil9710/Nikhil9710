@@ -1,4 +1,4 @@
-![Image](https://github.com/user-attachments/assets/3476ee7f-1f07-4ac1-a337-02768009f001)
+![Image](https://github.com/user-attachments/assets/21a12297-e8da-4f42-9fd0-a972b0bccf25)
 
 <h1 align="left">Hi 👋! My name is Nikhil. I am a software engineer patinated to develop responsive and reactive web application</h1>
 
